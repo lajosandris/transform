@@ -6,6 +6,9 @@ div {
     position: absolute;
     color: white;
     text-align: center;
+
+    top: 100px;
+    left: 100px;
 }
 
 #div-1{
@@ -13,8 +16,10 @@ div {
 }
 
 #div-2 {
-    transform: translate(100px, 75px);
+    transform: scale(2);
     background-color: tomato;
     opacity: 0.8;    
 }
+
+
 
